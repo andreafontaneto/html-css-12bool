@@ -12,6 +12,10 @@ h1{
   margin-bottom: 10px;
 }
 
+.mb20{
+  margin-bottom: 20px;
+}
+
 .box, .box-nest{
   width: 100%;
   height: 100%;
