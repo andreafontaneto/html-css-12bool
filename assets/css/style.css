@@ -12,8 +12,13 @@ h1{
   margin-bottom: 10px;
 }
 
-.box{
+.box, .box-nest{
   width: 100%;
+  height: 100%;
   color: white;
   text-align: center;
+}
+
+.box-nest{
+  background-color: teal;
 }
