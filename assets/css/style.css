@@ -3,3 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+h1{
+  color: black;
+}
+
+.mb10{
+  margin-bottom: 10px;
+}
+
+.box{
+  width: 100%;
+  color: white;
+  text-align: center;
+}
