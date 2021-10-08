@@ -8,7 +8,7 @@
   flex-wrap: wrap;
 }
 
-[class*="col"]{
+[class*="col-lg"]{
   background-color: cornflowerblue;
   border: 1px solid white;
   padding: 10px;
